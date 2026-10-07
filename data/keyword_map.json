@@ -1,0 +1,658 @@
+[
+ [
+  "Couve flor com cenoura e chuchu",
+  "couve_flor_com_cenoura_e_chuchu"
+ ],
+ [
+  "cenoura ralada com abacaxi",
+  "cenoura_ralada_com_abacaxi"
+ ],
+ [
+  "Filé de frango a pizzaiolo",
+  "file_de_frango_a_pizzaiolo"
+ ],
+ [
+  "Couve flor ao molho branco",
+  "couve_flor_ao_molho_branco"
+ ],
+ [
+  "Repolho com cenoura ralada",
+  "repolho_com_cenoura_ralada"
+ ],
+ [
+  "espinafre ao molho branco",
+  "espinafre_ao_molho_branco"
+ ],
+ [
+  "file de frango a pizzaolo",
+  "file_de_frango_a_pizzaolo"
+ ],
+ [
+  "Lascas de peixe gratinada",
+  "lascas_de_peixe_gratinada"
+ ],
+ [
+  "Abobrinha ao molho branco",
+  "abobrinha_ao_molho_branco"
+ ],
+ [
+  "Coxinha da asa a milanesa",
+  "coxinha_da_asa_a_milanesa"
+ ],
+ [
+  "Isca de frango a milanesa",
+  "isca_de_frango_a_milanesa"
+ ],
+ [
+  "Isca de pernil a milanesa",
+  "isca_de_pernil_a_milanesa"
+ ],
+ [
+  "Agrião com rúcula e manga",
+  "agriao_com_rucula_e_manga"
+ ],
+ [
+  "isca de lombo a milanesa",
+  "isca_de_lombo_a_milanesa"
+ ],
+ [
+  "repolho roxo com cenoura",
+  "repolho_roxo_com_cenoura"
+ ],
+ [
+  "isca de frango grelhado",
+  "isca_de_frango_grelhado"
+ ],
+ [
+  "file de frango grelhado",
+  "file_de_frango_grelhado"
+ ],
+ [
+  "isca de frango empanada",
+  "isca_de_frango_empanada"
+ ],
+ [
+  "Carne moída com cenoura",
+  "carne_moida_com_cenoura"
+ ],
+ [
+  "Couve flor com brócolis",
+  "couve_flor_com_brocolis"
+ ],
+ [
+  "Bife de lombo acebolado",
+  "bife_de_lombo_acebolado"
+ ],
+ [
+  "Isca de frango grelhada",
+  "isca_de_frango_grelhada"
+ ],
+ [
+  "Isca de pernil grelhado",
+  "isca_de_pernil_grelhado"
+ ],
+ [
+  "Linguiça toscana assada",
+  "linguica_toscana_assada"
+ ],
+ [
+  "Brócolis com couve flor",
+  "brocolis_com_couve_flor"
+ ],
+ [
+  "pepino com ervas finas",
+  "pepino_com_ervas_finas"
+ ],
+ [
+  "Couve flor com cenoura",
+  "couve_flor_com_cenoura"
+ ],
+ [
+  "Macarrão com 2 molhos",
+  "macarrao_com_2_molhos"
+ ],
+ [
+  "Abobrinha a pizzaiolo",
+  "abobrinha_a_pizzaiolo"
+ ],
+ [
+  "Abobrinha a bolonhesa",
+  "abobrinha_a_bolonhesa"
+ ],
+ [
+  "Batata doce gratinada",
+  "batata_doce_gratinada"
+ ],
+ [
+  "macarrao alho e oleo",
+  "macarrao_alho_e_oleo"
+ ],
+ [
+  "strogonoff de frango",
+  "strogonoff_de_frango"
+ ],
+ [
+  "abobrinha com chuchu",
+  "abobrinha_com_chuchu"
+ ],
+ [
+  "Brócolis com cenoura",
+  "brocolis_com_cenoura"
+ ],
+ [
+  "Salada mediterrânea",
+  "salada_mediterranea"
+ ],
+ [
+  "Salpicão de legumes",
+  "salpicao_de_legumes"
+ ],
+ [
+  "Strogonoff de carne",
+  "strogonoff_de_carne"
+ ],
+ [
+  "Cenoura com abacaxi",
+  "cenoura_com_abacaxi"
+ ],
+ [
+  "Refogado de legumes",
+  "refogado_de_legumes"
+ ],
+ [
+  "frango a pizzaiolo",
+  "frango_a_pizzaiolo"
+ ],
+ [
+  "rucula com abacaxi",
+  "rucula_com_abacaxi"
+ ],
+ [
+  "Panqueca de frango",
+  "panqueca_de_frango"
+ ],
+ [
+  "Sobrecoxa ao molho",
+  "sobrecoxa_ao_molho"
+ ],
+ [
+  "Coxinha a milanesa",
+  "coxinha_a_milanesa"
+ ],
+ [
+  "Massa com brócolis",
+  "massa_com_brocolis"
+ ],
+ [
+  "Chuchu com cenoura",
+  "chuchu_com_cenoura"
+ ],
+ [
+  "Batata doce assada",
+  "batata_doce_assada"
+ ],
+ [
+  "panqueca de carne",
+  "panqueca_de_carne"
+ ],
+ [
+  "jilo ao vinagrete",
+  "jilo_ao_vinagrete"
+ ],
+ [
+  "frango a milanesa",
+  "frango_a_milanesa"
+ ],
+ [
+  "Salada marroquina",
+  "salada_marroquina"
+ ],
+ [
+  "Salada de repolho",
+  "salada_de_repolho"
+ ],
+ [
+  "Bife à parmegiana",
+  "bife_a_parmegiana"
+ ],
+ [
+  "Massa alho e óleo",
+  "massa_alho_e_oleo"
+ ],
+ [
+  "Espaguete ao sugo",
+  "espaguete_ao_sugo"
+ ],
+ [
+  "Caldo de mandioca",
+  "caldo_de_mandioca"
+ ],
+ [
+  "Massa com legumes",
+  "massa_com_legumes"
+ ],
+ [
+  "Talharim com ovos",
+  "talharim_com_ovos"
+ ],
+ [
+  "beterraba cozida",
+  "beterraba_cozida"
+ ],
+ [
+  "farofa de cebola",
+  "farofa_de_cebola"
+ ],
+ [
+  "bolinho de arroz",
+  "bolinho_de_arroz"
+ ],
+ [
+  "rucula com manga",
+  "rucula_com_manga"
+ ],
+ [
+  "beterraba ralada",
+  "beterraba_ralada"
+ ],
+ [
+  "Batata gratinada",
+  "batata_gratinada"
+ ],
+ [
+  "Repolho colorido",
+  "repolho_colorido"
+ ],
+ [
+  "Costelinha suína",
+  "costelinha_suina"
+ ],
+ [
+  "Linguiça toscana",
+  "linguica_toscana"
+ ],
+ [
+  "Couve com tomate",
+  "couve_com_tomate"
+ ],
+ [
+  "Repolho agridoce",
+  "repolho_agridoce"
+ ],
+ [
+  "Cenoura com ovos",
+  "cenoura_com_ovos"
+ ],
+ [
+  "Moranga refogada",
+  "moranga_refogada"
+ ],
+ [
+  "Agrião com manga",
+  "agriao_com_manga"
+ ],
+ [
+  "batata ao molho",
+  "batata_ao_molho"
+ ],
+ [
+  "churrasco misto",
+  "churrasco_misto"
+ ],
+ [
+  "arroz temperado",
+  "arroz_temperado"
+ ],
+ [
+  "frango grelhado",
+  "isca_de_frango_grelhado"
+ ],
+ [
+  "frango empanado",
+  "isca_de_frango_empanada"
+ ],
+ [
+  "Frango ao molho",
+  "frango_ao_molho"
+ ],
+ [
+  "Linguiça assada",
+  "linguica_assada"
+ ],
+ [
+  "Chuchu refogado",
+  "chuchu_refogado"
+ ],
+ [
+  "Feijão fradinho",
+  "feijao_fradinho"
+ ],
+ [
+  "Feijão tropeiro",
+  "feijao_tropeiro"
+ ],
+ [
+  "Caldo de inhame",
+  "caldo_de_inhame"
+ ],
+ [
+  "arroz integral",
+  "arroz_integral"
+ ],
+ [
+  "couve refogada",
+  "couve_refogada"
+ ],
+ [
+  "lagarto assado",
+  "lagarto_assado"
+ ],
+ [
+  "salada de jilo",
+  "salada_de_jilo"
+ ],
+ [
+  "cenoura ralada",
+  "cenoura_ralada"
+ ],
+ [
+  "Mix de alfaces",
+  "mix_de_alfaces"
+ ],
+ [
+  "Isca de frango",
+  "isca_de_frango"
+ ],
+ [
+  "Isca de fígado",
+  "isca_de_figado"
+ ],
+ [
+  "Coxinha da asa",
+  "coxinha_da_asa"
+ ],
+ [
+  "Purê de batata",
+  "pure_de_batata"
+ ],
+ [
+  "Mandioca frita",
+  "mandioca_frita"
+ ],
+ [
+  "Vagem com ovos",
+  "vagem_com_ovos"
+ ],
+ [
+  "Lombo ao molho",
+  "lombo_ao_molho"
+ ],
+ [
+  "bife de palma",
+  "bife_de_palma"
+ ],
+ [
+  "batata corada",
+  "batata_corada"
+ ],
+ [
+  "bife de lombo",
+  "bife_de_lombo"
+ ],
+ [
+  "frango xadrez",
+  "frango_xadrez"
+ ],
+ [
+  "Frango assado",
+  "frango_assado"
+ ],
+ [
+  "Isca de lombo",
+  "isca_de_lombo"
+ ],
+ [
+  "carne cozida",
+  "carne_cozida"
+ ],
+ [
+  "carne assada",
+  "carne_assada"
+ ],
+ [
+  "batata palha",
+  "batata_palha"
+ ],
+ [
+  "lombo assado",
+  "lombo_assado"
+ ],
+ [
+  "Frango frito",
+  "frango_frito"
+ ],
+ [
+  "Vaca atolada",
+  "vaca_atolada"
+ ],
+ [
+  "Feijão amigo",
+  "feijao_amigo"
+ ],
+ [
+  "batata doce",
+  "batata_doce"
+ ],
+ [
+  "canjiquinha",
+  "canjiquinha"
+ ],
+ [
+  "carne moida",
+  "carne_cozida"
+ ],
+ [
+  "almondegas",
+  "almondegas"
+ ],
+ [
+  "Marroquina",
+  "marroquina"
+ ],
+ [
+  "Costelinha",
+  "costelinha"
+ ],
+ [
+  "Couve flor",
+  "couve_flor"
+ ],
+ [
+  "Arroz doce",
+  "arroz_doce"
+ ],
+ [
+  "vinagrete",
+  "vinagrete"
+ ],
+ [
+  "Abobrinha",
+  "abobrinha"
+ ],
+ [
+  "feijoada",
+  "feijoada"
+ ],
+ [
+  "caponata",
+  "caponata"
+ ],
+ [
+  "pepinete",
+  "pepinete"
+ ],
+ [
+  "linguica",
+  "churrasco_misto"
+ ],
+ [
+  "brocolis",
+  "couve_refogada"
+ ],
+ [
+  "mandioca",
+  "mandioca"
+ ],
+ [
+  "salsicha",
+  "churrasco_misto"
+ ],
+ [
+  "Sunomono",
+  "sunomono"
+ ],
+ [
+  "Macarrão",
+  "macarrao"
+ ],
+ [
+  "Talharim",
+  "talharim"
+ ],
+ [
+  "moranga",
+  "moranga"
+ ],
+ [
+  "polenta",
+  "polenta"
+ ],
+ [
+  "laranja",
+  "laranja"
+ ],
+ [
+  "repolho",
+  "repolho"
+ ],
+ [
+  "bisteca",
+  "bisteca"
+ ],
+ [
+  "abobora",
+  "moranga"
+ ],
+ [
+  "costela",
+  "carne_assada"
+ ],
+ [
+  "Canjica",
+  "canjica"
+ ],
+ [
+  "feijao",
+  "feijao"
+ ],
+ [
+  "virado",
+  "virado"
+ ],
+ [
+  "alface",
+  "alface"
+ ],
+ [
+  "farofa",
+  "farofa"
+ ],
+ [
+  "tabule",
+  "tabule"
+ ],
+ [
+  "tomate",
+  "salada_de_jilo"
+ ],
+ [
+  "cebola",
+  "farofa_de_cebola"
+ ],
+ [
+  "chuchu",
+  "chuchu"
+ ],
+ [
+  "quiabo",
+  "couve_refogada"
+ ],
+ [
+  "frango",
+  "isca_de_frango_grelhado"
+ ],
+ [
+  "Rúcula",
+  "rucula"
+ ],
+ [
+  "Agrião",
+  "agriao"
+ ],
+ [
+  "Pepino",
+  "pepino"
+ ],
+ [
+  "arroz",
+  "arroz"
+ ],
+ [
+  "massa",
+  "massa"
+ ],
+ [
+  "couve",
+  "couve"
+ ],
+ [
+  "fruta",
+  "fruta"
+ ],
+ [
+  "lombo",
+  "bife_de_lombo"
+ ],
+ [
+  "aipim",
+  "batata_corada"
+ ],
+ [
+  "peixe",
+  "peixe"
+ ],
+ [
+  "Cupim",
+  "cupim"
+ ],
+ [
+  "tutu",
+  "tutu"
+ ],
+ [
+  "pure",
+  "pure"
+ ],
+ [
+  "jilo",
+  "salada_de_jilo"
+ ],
+ [
+  "bife",
+  "bife_de_lombo"
+ ],
+ [
+  "ovo",
+  "virado"
+ ]
+]

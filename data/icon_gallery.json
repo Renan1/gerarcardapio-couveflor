@@ -1,0 +1,737 @@
+[
+ {
+  "name": "Almôndegas",
+  "slug": "almondegas",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Bife à parmegiana",
+  "slug": "bife_a_parmegiana",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Bife de lombo",
+  "slug": "bife_de_lombo",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Bife de lombo acebolado",
+  "slug": "bife_de_lombo_acebolado",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Bife de palma",
+  "slug": "bife_de_palma",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Bisteca",
+  "slug": "bisteca",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Carne assada",
+  "slug": "carne_assada",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Carne cozida",
+  "slug": "carne_cozida",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Carne moída com cenoura",
+  "slug": "carne_moida_com_cenoura",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Churrasco misto",
+  "slug": "churrasco_misto",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Costelinha",
+  "slug": "costelinha",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Costelinha suína",
+  "slug": "costelinha_suina",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Coxinha a milanesa",
+  "slug": "coxinha_a_milanesa",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Coxinha da asa",
+  "slug": "coxinha_da_asa",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Coxinha da asa a milanesa",
+  "slug": "coxinha_da_asa_a_milanesa",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Cupim",
+  "slug": "cupim",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Feijoada",
+  "slug": "feijoada",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Filé de frango a pizzaiolo",
+  "slug": "file_de_frango_a_pizzaiolo",
+  "category": "Proteínas"
+ },
+ {
+  "name": "File de frango a pizzaolo",
+  "slug": "file_de_frango_a_pizzaolo",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Filé de frango grelhado",
+  "slug": "file_de_frango_grelhado",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Frango à milanesa",
+  "slug": "frango_a_milanesa",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Frango a pizzaiolo",
+  "slug": "frango_a_pizzaiolo",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Frango ao molho",
+  "slug": "frango_ao_molho",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Frango assado",
+  "slug": "frango_assado",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Frango frito",
+  "slug": "frango_frito",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Frango xadrez",
+  "slug": "frango_xadrez",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Isca de fígado",
+  "slug": "isca_de_figado",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Isca de frango",
+  "slug": "isca_de_frango",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Isca de frango a milanesa",
+  "slug": "isca_de_frango_a_milanesa",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Isca de frango empanada",
+  "slug": "isca_de_frango_empanada",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Isca de frango grelhada",
+  "slug": "isca_de_frango_grelhada",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Isca de frango grelhado",
+  "slug": "isca_de_frango_grelhado",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Isca de lombo",
+  "slug": "isca_de_lombo",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Isca de lombo a milanesa",
+  "slug": "isca_de_lombo_a_milanesa",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Isca de pernil a milanesa",
+  "slug": "isca_de_pernil_a_milanesa",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Isca de pernil grelhado",
+  "slug": "isca_de_pernil_grelhado",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Lagarto assado",
+  "slug": "lagarto_assado",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Lascas de peixe gratinada",
+  "slug": "lascas_de_peixe_gratinada",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Linguiça assada",
+  "slug": "linguica_assada",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Linguiça toscana",
+  "slug": "linguica_toscana",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Linguiça toscana assada",
+  "slug": "linguica_toscana_assada",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Lombo ao molho",
+  "slug": "lombo_ao_molho",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Lombo assado",
+  "slug": "lombo_assado",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Panqueca de carne",
+  "slug": "panqueca_de_carne",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Panqueca de frango",
+  "slug": "panqueca_de_frango",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Peixe",
+  "slug": "peixe",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Sobrecoxa ao molho",
+  "slug": "sobrecoxa_ao_molho",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Strogonoff de carne",
+  "slug": "strogonoff_de_carne",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Strogonoff de frango",
+  "slug": "strogonoff_de_frango",
+  "category": "Proteínas"
+ },
+ {
+  "name": "Arroz",
+  "slug": "arroz",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Arroz doce",
+  "slug": "arroz_doce",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Arroz integral",
+  "slug": "arroz_integral",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Arroz temperado",
+  "slug": "arroz_temperado",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Bolinho de arroz",
+  "slug": "bolinho_de_arroz",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Caldo de inhame",
+  "slug": "caldo_de_inhame",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Caldo de mandioca",
+  "slug": "caldo_de_mandioca",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Canjica",
+  "slug": "canjica",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Canjiquinha",
+  "slug": "canjiquinha",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Espaguete ao sugo",
+  "slug": "espaguete_ao_sugo",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Feijão",
+  "slug": "feijao",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Feijão amigo",
+  "slug": "feijao_amigo",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Feijão fradinho",
+  "slug": "feijao_fradinho",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Feijão tropeiro",
+  "slug": "feijao_tropeiro",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Macarrão",
+  "slug": "macarrao",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Macarrão alho e óleo",
+  "slug": "macarrao_alho_e_oleo",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Macarrão com 2 molhos",
+  "slug": "macarrao_com_2_molhos",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Massa",
+  "slug": "massa",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Massa alho e óleo",
+  "slug": "massa_alho_e_oleo",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Massa com brócolis",
+  "slug": "massa_com_brocolis",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Massa com legumes",
+  "slug": "massa_com_legumes",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Polenta",
+  "slug": "polenta",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Talharim",
+  "slug": "talharim",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Talharim com ovos",
+  "slug": "talharim_com_ovos",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Tutu",
+  "slug": "tutu",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Vaca atolada",
+  "slug": "vaca_atolada",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Virado",
+  "slug": "virado",
+  "category": "Grãos, Massas e Feijões"
+ },
+ {
+  "name": "Abobrinha",
+  "slug": "abobrinha",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Abobrinha a bolonhesa",
+  "slug": "abobrinha_a_bolonhesa",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Abobrinha a pizzaiolo",
+  "slug": "abobrinha_a_pizzaiolo",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Abobrinha ao molho branco",
+  "slug": "abobrinha_ao_molho_branco",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Abobrinha com chuchu",
+  "slug": "abobrinha_com_chuchu",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Batata ao molho",
+  "slug": "batata_ao_molho",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Batata corada",
+  "slug": "batata_corada",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Batata doce",
+  "slug": "batata_doce",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Batata doce assada",
+  "slug": "batata_doce_assada",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Batata doce gratinada",
+  "slug": "batata_doce_gratinada",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Batata gratinada",
+  "slug": "batata_gratinada",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Batata palha",
+  "slug": "batata_palha",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Beterraba cozida",
+  "slug": "beterraba_cozida",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Beterraba ralada",
+  "slug": "beterraba_ralada",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Brócolis com cenoura",
+  "slug": "brocolis_com_cenoura",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Brócolis com couve flor",
+  "slug": "brocolis_com_couve_flor",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Cenoura com abacaxi",
+  "slug": "cenoura_com_abacaxi",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Cenoura com ovos",
+  "slug": "cenoura_com_ovos",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Cenoura ralada",
+  "slug": "cenoura_ralada",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Cenoura ralada com abacaxi",
+  "slug": "cenoura_ralada_com_abacaxi",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Chuchu",
+  "slug": "chuchu",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Chuchu com cenoura",
+  "slug": "chuchu_com_cenoura",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Chuchu refogado",
+  "slug": "chuchu_refogado",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Couve",
+  "slug": "couve",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Couve com tomate",
+  "slug": "couve_com_tomate",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Couve flor",
+  "slug": "couve_flor",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Couve flor ao molho branco",
+  "slug": "couve_flor_ao_molho_branco",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Couve flor com brócolis",
+  "slug": "couve_flor_com_brocolis",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Couve flor com cenoura",
+  "slug": "couve_flor_com_cenoura",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Couve flor com cenoura e chuchu",
+  "slug": "couve_flor_com_cenoura_e_chuchu",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Couve refogada",
+  "slug": "couve_refogada",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Espinafre ao molho branco",
+  "slug": "espinafre_ao_molho_branco",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Farofa",
+  "slug": "farofa",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Farofa de cebola",
+  "slug": "farofa_de_cebola",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Mandioca",
+  "slug": "mandioca",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Mandioca frita",
+  "slug": "mandioca_frita",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Moranga",
+  "slug": "moranga",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Moranga refogada",
+  "slug": "moranga_refogada",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Pepino com ervas finas",
+  "slug": "pepino_com_ervas_finas",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Pure",
+  "slug": "pure",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Purê de batata",
+  "slug": "pure_de_batata",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Refogado de legumes",
+  "slug": "refogado_de_legumes",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Repolho",
+  "slug": "repolho",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Repolho agridoce",
+  "slug": "repolho_agridoce",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Repolho colorido",
+  "slug": "repolho_colorido",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Repolho com cenoura ralada",
+  "slug": "repolho_com_cenoura_ralada",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Repolho roxo com cenoura",
+  "slug": "repolho_roxo_com_cenoura",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Vagem com ovos",
+  "slug": "vagem_com_ovos",
+  "category": "Guarnições e Vegetais"
+ },
+ {
+  "name": "Agrião",
+  "slug": "agriao",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Agrião com manga",
+  "slug": "agriao_com_manga",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Agrião com rúcula e manga",
+  "slug": "agriao_com_rucula_e_manga",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Alface",
+  "slug": "alface",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Caponata",
+  "slug": "caponata",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Fruta",
+  "slug": "fruta",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Jiló ao vinagrete",
+  "slug": "jilo_ao_vinagrete",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Laranja",
+  "slug": "laranja",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Marroquina",
+  "slug": "marroquina",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Mix de alfaces",
+  "slug": "mix_de_alfaces",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Pepinete",
+  "slug": "pepinete",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Pepino",
+  "slug": "pepino",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Rúcula",
+  "slug": "rucula",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Rucula com abacaxi",
+  "slug": "rucula_com_abacaxi",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Rúcula com manga",
+  "slug": "rucula_com_manga",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Salada de jiló",
+  "slug": "salada_de_jilo",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Salada de repolho",
+  "slug": "salada_de_repolho",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Salada marroquina",
+  "slug": "salada_marroquina",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Salada mediterrânea",
+  "slug": "salada_mediterranea",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Salpicão de legumes",
+  "slug": "salpicao_de_legumes",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Sunomono",
+  "slug": "sunomono",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Tabule",
+  "slug": "tabule",
+  "category": "Saladas e Frutas"
+ },
+ {
+  "name": "Vinagrete",
+  "slug": "vinagrete",
+  "category": "Saladas e Frutas"
+ }
+]

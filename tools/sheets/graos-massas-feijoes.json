@@ -1,0 +1,10 @@
+{
+  "image": "../../reference/sheets-grade/graos-massas-e-feijoes.png",
+  "grid_top": 490, "row_h": 227.5, "x0": 87, "x1": 775,
+  "rows": [
+    ["Arroz","Arroz integral","Arroz temperado","Massa","Massa alho e óleo"],
+    ["Macarrão","Espaguete ao sugo","Talharim","Feijão","Feijão fradinho"],
+    ["Feijão tropeiro","Tutu","Virado","Canjiquinha","Polenta"],
+    ["Vaca atolada","Caldo de inhame","Caldo de mandioca","Arroz doce","Bolinho de arroz"]
+  ]
+}

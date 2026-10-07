@@ -1,0 +1,11 @@
+{
+  "image": "../../reference/sheets-grade/guarnicoes-e-vegetais.png",
+  "grid_top": 465, "row_h": 187, "x0": 87, "x1": 775,
+  "rows": [
+    ["Farofa","Farofa de cebola","Batata ao molho","Batata corada","Batata palha"],
+    ["Batata gratinada","Batata doce","Purê de batata","Mandioca","Mandioca frita"],
+    ["Moranga","Couve","Couve refogada","Couve flor","Couve flor com brócolis"],
+    ["Brócolis com cenoura","Abobrinha","Abobrinha ao molho branco","Chuchu refogado","Vagem com ovos"],
+    ["Espinafre ao molho branco","Beterraba cozida","Repolho colorido","Cenoura ralada"]
+  ]
+}

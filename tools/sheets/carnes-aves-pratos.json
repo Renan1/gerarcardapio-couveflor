@@ -1,0 +1,12 @@
+{
+  "image": "../../reference/sheets-grade/carnes-aves-e-pratos.png",
+  "grid_top": 415, "row_h": 161, "x0": 87, "x1": 775,
+  "rows": [
+    ["Carne cozida","Carne assada","Carne moída com cenoura","Bife de lombo","Bife de palma"],
+    ["Bife à parmegiana","Bisteca","Costelinha","Lombo assado","Lagarto assado"],
+    ["Cupim","Churrasco misto","Frango assado","Frango frito","Frango xadrez"],
+    ["Frango ao molho","Frango à milanesa","Filé de frango grelhado","Isca de frango","Isca de lombo"],
+    ["Isca de fígado","Coxinha da asa","Linguiça assada","Panqueca de frango","Almôndegas"],
+    ["Sobrecoxa ao molho","Strogonoff de frango","Feijoada","Peixe","Lascas de peixe gratinada"]
+  ]
+}

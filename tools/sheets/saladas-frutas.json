@@ -1,0 +1,11 @@
+{
+  "image": "../../reference/sheets-grade/saladas-e-frutas.png",
+  "grid_top": 490, "row_h": 182, "x0": 87, "x1": 775,
+  "rows": [
+    ["Alface","Mix de alfaces","Rúcula","Rúcula com manga"],
+    ["Agrião","Salada mediterrânea","Salada marroquina","Salada de repolho"],
+    ["Salpicão de legumes","Tabule","Sunomono","Vinagrete"],
+    ["Caponata","Marroquina","Jiló ao vinagrete","Pepino"],
+    ["Pepinete","Laranja"]
+  ]
+}

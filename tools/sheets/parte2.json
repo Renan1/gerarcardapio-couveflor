@@ -1,0 +1,10 @@
+{
+  "image": "../../reference/sheets-grade/itens-extras-parte2.png",
+  "grid_top": 387, "row_h": 227, "x0": 43, "x1": 821,
+  "rows": [
+    ["Bife de lombo acebolado","Costelinha suína","Coxinha a milanesa","Coxinha da asa a milanesa","Frango a pizzaiolo"],
+    ["Filé de frango a pizzaiolo","Isca de frango grelhada","Isca de frango a milanesa","Isca de pernil a milanesa","Isca de pernil grelhado"],
+    ["Linguiça toscana","Linguiça toscana assada","Lombo ao molho","Strogonoff de carne"],
+    ["Agrião com rúcula e manga","Agrião com manga","Salada de jiló"]
+  ]
+}

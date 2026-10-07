@@ -1,0 +1,11 @@
+{
+  "image": "../../reference/sheets-grade/itens-extras-parte1.png",
+  "grid_top": 430, "row_h": 190, "x0": 42, "x1": 819,
+  "rows": [
+    ["Macarrão alho e óleo","Macarrão com 2 molhos","Massa com brócolis","Massa com legumes","Talharim com ovos","Feijão amigo"],
+    ["Canjica","Couve com tomate","Couve flor com cenoura","Couve flor com cenoura e chuchu","Couve flor ao molho branco","Brócolis com couve flor"],
+    ["Abobrinha a pizzaiolo","Abobrinha a bolonhesa","Chuchu","Chuchu com cenoura","Beterraba ralada","Repolho"],
+    ["Repolho agridoce","Repolho roxo com cenoura","Repolho com cenoura ralada","Cenoura com ovos","Cenoura com abacaxi","Cenoura ralada com abacaxi"],
+    ["Pepino com ervas finas","Moranga refogada","Batata doce gratinada","Batata doce assada","Refogado de legumes"]
+  ]
+}
